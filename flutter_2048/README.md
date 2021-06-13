@@ -1,6 +1,8 @@
 # flutter2048
 
-A new Flutter application.
+A new Flutter 2048 game.
+![image](https://user-images.githubusercontent.com/27917405/121821635-d33cf100-ccb7-11eb-9625-0a052ee82c82.png)
+
 
 ## Getting Started
 
